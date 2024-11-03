@@ -17,7 +17,7 @@ pair = (char, count) creates a tuple pair with the word and its count.
 if (pair not in result): checks if the pair is already in result. If not, it appends pair to result and Finally, this loop iterates over each (word, count) pair in result and prints it.
 
 
-second code program is program3.password.py (A website requires the users to input username and password to register.
+2 . second code program is program3.password.py (A website requires the users to input username and password to register.
 Write a program to check the validity of password input by users.)
 
 Following are the criteria for checking the password:
